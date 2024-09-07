@@ -106,21 +106,21 @@ const IntegratedSearchTransaction = () => {
       name: "Sky Dandelions Apartment",
       rating: "4.9",
       location: "Sector 28, Gurgaon",
-      price: "22,020 /month",
+      price: "₹ 22,020 / month",
       imageUrl: "../assets/skyland.png"
     },
     {
       name: "Wings Tower",
       rating: "4.9",
       location: "Sector 27, Gurgaon",
-      price: "17,000 /month",
+      price: "₹ 17,000 / month",
       imageUrl: "../assets/wingtower.png"
     },
     {
       name: "Wayside Modern House",
       rating: "4.8",
       location: "MG Road, Gurgaon",
-      price: "15,000",
+      price: "₹ 15,000 / month",
       imageUrl: "../assets/modern_house.png"
     }
   ];
