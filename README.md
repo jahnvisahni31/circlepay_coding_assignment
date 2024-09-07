@@ -1,5 +1,5 @@
 # circlepay_coding_assignment
-=====================================
+
 This project is a React application that integrates a search feature with a transaction flow. It allows users to search for properties, view details, and proceed to a transaction review and confirmation page.
 
 ## Getting Started
