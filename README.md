@@ -20,7 +20,7 @@ This project is a React application that integrates a search feature with a tran
 ## Running the Project Locally
 ---------------------------
 
-1. Open a terminal and navigate to the project directory: `cd integrated-search-transaction`
+1. Open a terminal and navigate to the project directory: `cd circlepay_coding_assignment`
 2. Start the development server: `npm start`
 3. Open a web browser and navigate to `http://localhost:3000`
 
